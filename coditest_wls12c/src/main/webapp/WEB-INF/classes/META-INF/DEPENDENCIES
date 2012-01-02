@@ -1,0 +1,37 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+MyFaces Extensions-CDI Bundle for JSF 2.0
+
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - MyFaces Extensions-CDI Core-API (http://myfaces.apache.org/extensions/cdi/core-project/myfaces-extcdi-core-api/) org.apache.myfaces.extensions.cdi.core:myfaces-extcdi-core-api:jar:1.0.3-SNAPSHOT
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - MyFaces Extensions-CDI Core-Impl (http://myfaces.apache.org/extensions/cdi/core-project/myfaces-extcdi-core-impl/) org.apache.myfaces.extensions.cdi.core:myfaces-extcdi-core-impl:jar:1.0.3-SNAPSHOT
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - MyFaces Extensions-CDI Bean-Validation 1.0 Module API (http://myfaces.apache.org/extensions/cdi/jee-modules-project/bv1-module-project/myfaces-extcdi-bv1-module-api/) org.apache.myfaces.extensions.cdi.modules:myfaces-extcdi-bv1-module-api:jar:1.0.3-SNAPSHOT
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - MyFaces Extensions-CDI Bean-Validation 1.0 Module Impl (http://myfaces.apache.org/extensions/cdi/jee-modules-project/bv1-module-project/myfaces-extcdi-bv1-module-impl/) org.apache.myfaces.extensions.cdi.modules:myfaces-extcdi-bv1-module-impl:jar:1.0.3-SNAPSHOT
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - MyFaces Extensions-CDI JPA 1.0 Module API (http://myfaces.apache.org/extensions/cdi/jee-modules-project/jpa1-module-project/myfaces-extcdi-jpa1-module-api/) org.apache.myfaces.extensions.cdi.modules:myfaces-extcdi-jpa1-module-api:jar:1.0.3-SNAPSHOT
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - MyFaces Extensions-CDI JPA 1.0 Module Impl (http://myfaces.apache.org/extensions/cdi/jee-modules-project/jpa1-module-project/myfaces-extcdi-jpa1-module-impl/) org.apache.myfaces.extensions.cdi.modules:myfaces-extcdi-jpa1-module-impl:jar:1.0.3-SNAPSHOT
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - MyFaces Extensions-CDI JSF 2.0 Module API (http://myfaces.apache.org/extensions/cdi/jee-modules-project/jsf20-module-project/myfaces-extcdi-jsf20-module-api/) org.apache.myfaces.extensions.cdi.modules:myfaces-extcdi-jsf20-module-api:jar:1.0.3-SNAPSHOT
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - MyFaces Extensions-CDI JSF 2.0 Module Impl (http://myfaces.apache.org/extensions/cdi/jee-modules-project/jsf20-module-project/myfaces-extcdi-jsf20-module-impl/) org.apache.myfaces.extensions.cdi.modules:myfaces-extcdi-jsf20-module-impl:jar:1.0.3-SNAPSHOT
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - MyFaces Extensions-CDI I18N Message 1.0 Module API (http://myfaces.apache.org/extensions/cdi/jse-modules-project/message-module-project/myfaces-extcdi-message-module-api/) org.apache.myfaces.extensions.cdi.modules:myfaces-extcdi-message-module-api:jar:1.0.3-SNAPSHOT
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - MyFaces Extensions-CDI I18N Message 1.0 Module Impl (http://myfaces.apache.org/extensions/cdi/jse-modules-project/message-module-project/myfaces-extcdi-message-module-impl/) org.apache.myfaces.extensions.cdi.modules:myfaces-extcdi-message-module-impl:jar:1.0.3-SNAPSHOT
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - MyFaces Extensions-CDI Scripting Module API (http://myfaces.apache.org/extensions/cdi/jse-modules-project/scripting-module-project/myfaces-extcdi-scripting-module-api/) org.apache.myfaces.extensions.cdi.modules:myfaces-extcdi-scripting-module-api:jar:1.0.3-SNAPSHOT
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - MyFaces Extensions-CDI Scripting Module Impl (http://myfaces.apache.org/extensions/cdi/jse-modules-project/scripting-module-project/myfaces-extcdi-scripting-module-impl/) org.apache.myfaces.extensions.cdi.modules:myfaces-extcdi-scripting-module-impl:jar:1.0.3-SNAPSHOT
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+

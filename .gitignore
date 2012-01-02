@@ -3,3 +3,9 @@
 /coditest_wls11g/.settings
 /coditest_wls11g/.classpath
 /coditest_wls11g/src/main/webapp/META-INF
+/coditest_wls11g/target
+/coditest_wls12c/.project
+/coditest_wls12c/.settings
+/coditest_wls12c/target
+/coditest_wls12c/.classpath
+/coditest_wls12c/src/main/webapp/META-INF

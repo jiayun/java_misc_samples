@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="
+      http://java.sun.com/xml/ns/javaee
+      http://java.sun.com/xml/ns/javaee/beans_1_0.xsd">
+	<interceptors>
+		<class>org.apache.myfaces.extensions.cdi.jsf.impl.security.SecurityInterceptor</class>
+		<class>org.apache.myfaces.extensions.cdi.jsf.impl.listener.phase.ViewControllerInterceptor</class>
+		<class>org.apache.myfaces.extensions.cdi.jsf.impl.scope.conversation.CloseConversationGroupInterceptor</class>
+		<class>org.apache.myfaces.extensions.cdi.jsf.impl.config.view.PageParameterInterceptor</class>
+		<class>org.apache.myfaces.extensions.cdi.jsf.impl.config.view.PageParameterListInterceptor</class>
+		<class>org.apache.myfaces.extensions.cdi.jpa.impl.transaction.TransactionalInterceptor</class>
+	</interceptors>
+</beans>
