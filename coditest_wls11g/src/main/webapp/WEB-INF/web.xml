@@ -111,20 +111,9 @@
         <param-value>NzY1NDMyMTA=</param-value>
     </context-param>
     
-<!-- <listener> -->
-<!-- 	<listener-class>org.apache.webbeans.servlet.WebBeansConfigurationListener</listener-class> -->
-<!-- </listener> -->
-    <!-- Listener for OpenWebBeans configuration -->
-<!--     <listener> -->
-<!--         <listener-class>org.apacheExtras.myfaces.codi.addon.openwebbeans.startup.OpenWebBeansAwareConfigurationListener</listener-class> -->
-<!--     </listener> -->
-
-<!-- <listener> -->
-<!-- 	<listener-class>org.jboss.weld.environment.servlet.Listener</listener-class> -->
-<!-- </listener> -->
-<listener>
-	<listener-class>org.apacheExtras.myfaces.codi.addon.weld.startup.WeldAwareConfigurationListener</listener-class>
-</listener>
+	<listener>
+		<listener-class>org.apache.myfaces.extensions.cdi.weld.startup.WeldAwareConfigurationListener</listener-class>
+	</listener>
 
     <!-- Faces Servlet -->
     <servlet>

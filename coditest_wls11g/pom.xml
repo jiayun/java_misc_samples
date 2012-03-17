@@ -23,7 +23,7 @@
 		<jsf-myfaces.version>2.1.5</jsf-myfaces.version>
 		<jsf-mojarra.version>2.1.4</jsf-mojarra.version>
 		<openwebbeans.version>1.1.3</openwebbeans.version>
-		<codi.version>1.0.3-SNAPSHOT</codi.version>
+		<codi.version>1.0.3</codi.version>
 		<maven.jetty.plugin.version>6.1.22</maven.jetty.plugin.version>
 	</properties>
 
@@ -137,7 +137,7 @@
 		<dependency>
 		<groupId>org.jboss.weld.servlet</groupId>
 		<artifactId>weld-servlet</artifactId>
-		<version>1.1.4.Final</version>
+		<version>1.1.5.Final</version>
 		</dependency>
 
 		<!-- Specifications -->
@@ -336,17 +336,11 @@
 <!-- 			<scope>provided</scope> -->
 			<scope>compile</scope>
 		</dependency>
-
-		<!-- <dependency> -->
-		<!-- <groupId>org.apacheExtras.myfaces.codi.addon</groupId> -->
-		<!-- <artifactId>controlled-owb-bootstrapping-addon</artifactId> -->
-		<!-- <version>1.0.0</version> -->
-		<!-- </dependency> -->
-
 		<dependency>
-		<groupId>org.apacheExtras.myfaces.codi.addon</groupId>
-		<artifactId>controlled-weld-bootstrapping-addon</artifactId>
-		<version>1.0.0</version>
+			<groupId>org.apache.myfaces.extensions.cdi.modules.jee5-support</groupId>
+			<artifactId>myfaces-extcdi-jee5-weld-support</artifactId>
+			<version>${codi.version}</version>
+			<scope>runtime</scope>
 		</dependency>
 
 		<!-- test dependencies -->
